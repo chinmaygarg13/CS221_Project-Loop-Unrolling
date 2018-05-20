@@ -1,2 +1,2 @@
 # CS221_Project-Loop-Unrolling
-Implementation of Loop Unrolling and Scheduling using C++
+Implementation of Loop Unrolling and Strip Mining using C++
